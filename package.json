@@ -20,7 +20,7 @@
       "title": "New Thread",
       "subtitle": "Open a new thread",
       "description": "Opens a new thread in the last project that was open",
-      "icon": "command-icon.png",
+      "icon": "extension_icon.png",
       "mode": "no-view"
     },
     {
@@ -28,7 +28,7 @@
       "title": "Open Settings",
       "subtitle": "Open settings menu",
       "description": "Opens the settings menu",
-      "icon": "command-icon.png",
+      "icon": "extension_icon.png",
       "mode": "no-view"
     },
     {
@@ -36,7 +36,7 @@
       "title": "Open Skills",
       "subtitle": "Open skills menu",
       "description": "Opens the skills menu",
-      "icon": "command-icon.png",
+      "icon": "extension_icon.png",
       "mode": "no-view"
     },
     {
@@ -44,7 +44,7 @@
       "title": "Open Automations",
       "subtitle": "Open automations menu",
       "description": "Opens the automations menu",
-      "icon": "command-icon.png",
+      "icon": "extension_icon.png",
       "mode": "no-view"
     }
   ],

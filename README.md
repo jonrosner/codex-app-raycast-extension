@@ -1,3 +1,3 @@
 # Codex
 
-Manage the Codex App via Raycast
+Control the Codex App via Raycast

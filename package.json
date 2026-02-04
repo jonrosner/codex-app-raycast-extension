@@ -7,8 +7,7 @@
   "author": "jon_r",
   "owner": "neomake",
   "platforms": [
-    "macOS",
-    "Windows"
+    "macOS"
   ],
   "categories": [
     "Applications"

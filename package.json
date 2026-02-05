@@ -1,11 +1,10 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "codex",
-  "title": "Codex",
+  "name": "codex-app",
+  "title": "Codex App",
   "description": "Control the Codex App via Raycast",
   "icon": "extension_icon.png",
   "author": "jon_r",
-  "owner": "neomake",
   "platforms": [
     "macOS"
   ],

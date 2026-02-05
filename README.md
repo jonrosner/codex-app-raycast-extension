@@ -1,4 +1,4 @@
-# Codex
+# Codex App
 
 Control the Codex app from Raycast. This extension opens key Codex views so you can start a new thread or jump straight to settings, skills, and automations without leaving your keyboard.
 
